@@ -253,7 +253,6 @@ void istruzioni_matrice_assi(){
 
 
 void istruzioni_encoder(){
-for (int enc = 0; enc<LIST_MAX ; enc++){
   // ENCODER 1
    static int pos1 = 0;
    encoder1.tick();
