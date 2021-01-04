@@ -1,0 +1,2 @@
+# EC-Sim-Enc-Buttons
+ Verrà creato un Controller HID disposto di 2 Assi 22 Pulsanti e 5 Encoder.  Per poter compilare questo sketch è necessario installare le librerie ufficiali Keypad di Mark Stanley attraverso la gestione libreria, inoltre installare la libreria Rotary Enc https://github.com/mathertel/RotaryEncoder nella Documents/Arduino directory.  Se non presente, bisogna installare nella Documents/Arduino directory la libreria ArduinoJoystickLibrary creata da MHeironimus reperibile al seguente link: https://github.com/MHeironimus/ArduinoJoystickLibrary
