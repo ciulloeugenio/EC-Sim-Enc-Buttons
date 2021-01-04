@@ -158,7 +158,6 @@ void setup()
   Joystick.begin();
   Joystick.setXAxisRange(-1, 1);
   Joystick.setYAxisRange(-1, 1);
-  Serial.begin(9600);
 } 
 
 void loop()
@@ -166,6 +165,7 @@ void loop()
   istruzioni_encoder();
   istruzioni_matrice_pulsanti();
   istruzioni_matrice_assi();
+  delay(2);
 }
 
 
@@ -345,6 +345,4 @@ void istruzioni_encoder(){
       }
    }
   pos5 = newPos5;
-}
-
 }
