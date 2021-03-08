@@ -39,7 +39,7 @@ Copyright (c) 2020 Eugenio Ciullo
 
 
 Gli sketch in questo repository sono stati creati da Eugenio Ciullo.
-Verrà creato un Controller HID disposto di 2 Assi 22 Pulsanti e 3 Encoder.
+Verrà creato un Controller HID disposto di 2 Assi 18 Pulsanti e 3 Encoder.
 
 Per poter compilare questo sketch è necessario installare le librerie ufficiali Keypad di Mark Stanley attraverso la gestione libreria, inoltre installare la libreria Encoder di Paul Stoffregen nella gestione libreria
 
